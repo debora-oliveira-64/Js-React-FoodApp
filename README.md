@@ -1,5 +1,5 @@
 -PWA Food Ordering Platform
-A full-stack Progressive Web App that connects users with registered restaurants for online food ordering.
+A full-stack Progressive Web App that connects users with registered restaurants for online food ordering, created for academic purposes.
 
 -Features
 Backend: Node.js + MongoDB with schemas for users, restaurants, dishes, and orders.
@@ -16,4 +16,5 @@ API Docs: Swagger integration.
 React with context and custom hooks.
 
 Pages: Login, registration, menu, dish details, cart, profile, admin panel, and restaurant dashboard.
+
 
